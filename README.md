@@ -160,10 +160,10 @@ results(env, optimal_pi, goal_state=goal_state)
 
 ```
 ## OUTPUT:
-### State - Value Function
+### Action - Value Function
 ![ac](https://github.com/BHUVANESHWAR-BHUVIOP/monte-carlo-control/assets/94155099/1b1961db-cd7e-4a66-9be5-3bf2bfdbd5f0)
 
-### Action - Value Function
+### State - Value Function
 ![sv](https://github.com/BHUVANESHWAR-BHUVIOP/monte-carlo-control/assets/94155099/d5b63237-53a2-481b-9ddf-1fb8c020107f)
 
 ### Policy
